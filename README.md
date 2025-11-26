@@ -1,3 +1,6 @@
+
+![508236108-4acc0acc-6c98-46b1-baed-bab79aeee314-1](https://github.com/user-attachments/assets/99980d52-8f14-49c6-890c-bbe9e6c4965b)
+
 -- Author: Aragan  gearswap mix and merg Arsilan gearswap with new codes lua all jobs endgame gear lua
 
 add :
@@ -7,4 +10,5 @@ add code equip phalanx set before sch or rdm give u phalanx ctrl+p command chang
 NOTE: keyboard buttons bind use
 
 //listbinds    .. to show command keys
+
 
